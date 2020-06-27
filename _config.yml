@@ -111,5 +111,8 @@ friends: [
     },{
         title: "Cloudflare",
         href: "https://www.cloudflare.com/"
+    },{
+        title: "Huang Blog",
+        href: "https://huangzhexi.cf/"
     }
 ]
